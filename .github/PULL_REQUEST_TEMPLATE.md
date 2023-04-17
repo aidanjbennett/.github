@@ -28,7 +28,7 @@ images for UI changes._
 ### UI accessibility concerns?
 
 _If your PR includes UI changes, please replace this line with details on how accessibility is impacted and tested. For more info, check out the
-[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) for my information on accessibility guidelines._
+[WCAG guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) for more information on accessibility guidelines._
 
 ## Added/updated tests?
 
